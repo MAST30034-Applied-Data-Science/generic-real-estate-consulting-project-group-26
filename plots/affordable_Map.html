@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1b5710b8a0ef39f96d6107803006a896 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_1b5710b8a0ef39f96d6107803006a896" ></div>
+        
+</body>
+<script>    
+    
+            var map_1b5710b8a0ef39f96d6107803006a896 = L.map(
+                "map_1b5710b8a0ef39f96d6107803006a896",
+                {
+                    center: [-37.02, 146.76],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_30b3f381cb8dfba8d744a4fa90b8eb2c = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+            var marker_3cabac268402164710888558c50381b4 = L.marker(
+                [-37.81442416801366, 144.98259058121525],
+                {}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+        var popup_b1739eae6faa2bc2b3a8f075164b342f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b351d1350fe7433fe65f03baf19172fc = $(`<div id="html_b351d1350fe7433fe65f03baf19172fc" style="width: 100.0%; height: 100.0%;">EAST MELBOURNE</div>`)[0];
+            popup_b1739eae6faa2bc2b3a8f075164b342f.setContent(html_b351d1350fe7433fe65f03baf19172fc);
+        
+
+        marker_3cabac268402164710888558c50381b4.bindPopup(popup_b1739eae6faa2bc2b3a8f075164b342f)
+        ;
+
+        
+    
+    
+            var marker_b8cdd2fcb0cffe46565eda46aa298b95 = L.marker(
+                [-37.85596363067722, 145.06500276959807],
+                {}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+        var popup_7100ad175666e393579959bfc962df9d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_36cf6011383658ded4ee85a637c8ea7c = $(`<div id="html_36cf6011383658ded4ee85a637c8ea7c" style="width: 100.0%; height: 100.0%;">GLEN IRIS</div>`)[0];
+            popup_7100ad175666e393579959bfc962df9d.setContent(html_36cf6011383658ded4ee85a637c8ea7c);
+        
+
+        marker_b8cdd2fcb0cffe46565eda46aa298b95.bindPopup(popup_7100ad175666e393579959bfc962df9d)
+        ;
+
+        
+    
+    
+            var marker_5a29cc3844e42a6849efa2a1c62a24db = L.marker(
+                [-37.82478970899985, 145.0320813570266],
+                {}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+        var popup_02b7b1f221754f837be591178911117d = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a4577400371aa82a4db22d49d5a102be = $(`<div id="html_a4577400371aa82a4db22d49d5a102be" style="width: 100.0%; height: 100.0%;">HAWTHORN</div>`)[0];
+            popup_02b7b1f221754f837be591178911117d.setContent(html_a4577400371aa82a4db22d49d5a102be);
+        
+
+        marker_5a29cc3844e42a6849efa2a1c62a24db.bindPopup(popup_02b7b1f221754f837be591178911117d)
+        ;
+
+        
+    
+    
+            var marker_339d2546bf5c76dac112527f412c6536 = L.marker(
+                [-37.856809460302664, 145.0350202379348],
+                {}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+        var popup_e326764ee82d86dfffde6482f2ff7757 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_538e547a510c983e64ce96a0ee0f7639 = $(`<div id="html_538e547a510c983e64ce96a0ee0f7639" style="width: 100.0%; height: 100.0%;">MALVERN</div>`)[0];
+            popup_e326764ee82d86dfffde6482f2ff7757.setContent(html_538e547a510c983e64ce96a0ee0f7639);
+        
+
+        marker_339d2546bf5c76dac112527f412c6536.bindPopup(popup_e326764ee82d86dfffde6482f2ff7757)
+        ;
+
+        
+    
+    
+            var marker_b7272ac3bfa8bdba5c9e5de41bae8d17 = L.marker(
+                [-37.841547636533875, 145.01751238251705],
+                {}
+            ).addTo(map_1b5710b8a0ef39f96d6107803006a896);
+        
+    
+        var popup_72f74ae14d6a39104041626b87f7604f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_27fa1cb0743a2999e3502d0ed91641e6 = $(`<div id="html_27fa1cb0743a2999e3502d0ed91641e6" style="width: 100.0%; height: 100.0%;">TOORAK</div>`)[0];
+            popup_72f74ae14d6a39104041626b87f7604f.setContent(html_27fa1cb0743a2999e3502d0ed91641e6);
+        
+
+        marker_b7272ac3bfa8bdba5c9e5de41bae8d17.bindPopup(popup_72f74ae14d6a39104041626b87f7604f)
+        ;
+
+        
+    
+</script>

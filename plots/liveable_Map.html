@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_27cc102d88af4f99c35e40d4415b2647 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_27cc102d88af4f99c35e40d4415b2647" ></div>
+        
+</body>
+<script>    
+    
+            var map_27cc102d88af4f99c35e40d4415b2647 = L.map(
+                "map_27cc102d88af4f99c35e40d4415b2647",
+                {
+                    center: [-37.02, 146.76],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 10,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_4dc542412c78de79eb14301e76b0756c = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+            var marker_3dd20f9fa2ca99df1b4b361337c8efb9 = L.marker(
+                [-37.838448181078014, 145.0736203776538],
+                {}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+        var popup_849678eade2b60b8691d79a2f0ba3d64 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_691ed5552c34ef1bbcac4940de18a4da = $(`<div id="html_691ed5552c34ef1bbcac4940de18a4da" style="width: 100.0%; height: 100.0%;">CAMBERWELL</div>`)[0];
+            popup_849678eade2b60b8691d79a2f0ba3d64.setContent(html_691ed5552c34ef1bbcac4940de18a4da);
+        
+
+        marker_3dd20f9fa2ca99df1b4b361337c8efb9.bindPopup(popup_849678eade2b60b8691d79a2f0ba3d64)
+        ;
+
+        
+    
+    
+            var marker_e75d1cdb8541c833fa8d38b9f4c16f46 = L.marker(
+                [-37.798142780008455, 144.89720128634332],
+                {}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+        var popup_277ea4e9a26b2efbf3b903ba7adcc5d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_97cec56b3241ccffc9ab903174e67f26 = $(`<div id="html_97cec56b3241ccffc9ab903174e67f26" style="width: 100.0%; height: 100.0%;">FOOTSCRAY</div>`)[0];
+            popup_277ea4e9a26b2efbf3b903ba7adcc5d7.setContent(html_97cec56b3241ccffc9ab903174e67f26);
+        
+
+        marker_e75d1cdb8541c833fa8d38b9f4c16f46.bindPopup(popup_277ea4e9a26b2efbf3b903ba7adcc5d7)
+        ;
+
+        
+    
+    
+            var marker_be8f6e2efabe60baff4556b7cbf77f47 = L.marker(
+                [-38.14815452482401, 145.14568559845264],
+                {}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+        var popup_3fd9656c05183f1faa6ed903e4a31ecd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_535e38748f13583b8dc772e4976a6005 = $(`<div id="html_535e38748f13583b8dc772e4976a6005" style="width: 100.0%; height: 100.0%;">FRANKSTON</div>`)[0];
+            popup_3fd9656c05183f1faa6ed903e4a31ecd.setContent(html_535e38748f13583b8dc772e4976a6005);
+        
+
+        marker_be8f6e2efabe60baff4556b7cbf77f47.bindPopup(popup_3fd9656c05183f1faa6ed903e4a31ecd)
+        ;
+
+        
+    
+    
+            var marker_c775b0ddccb3904811571eddf2e08f95 = L.marker(
+                [-37.820322577585266, 145.00246348487244],
+                {}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+        var popup_d050f91dffb193ace345e018a3816932 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ca767bbaff7013cc6e1b4ac6e8e16bb3 = $(`<div id="html_ca767bbaff7013cc6e1b4ac6e8e16bb3" style="width: 100.0%; height: 100.0%;">RICHMOND</div>`)[0];
+            popup_d050f91dffb193ace345e018a3816932.setContent(html_ca767bbaff7013cc6e1b4ac6e8e16bb3);
+        
+
+        marker_c775b0ddccb3904811571eddf2e08f95.bindPopup(popup_d050f91dffb193ace345e018a3816932)
+        ;
+
+        
+    
+    
+            var marker_ff78f5624d81e12dd3b271ad1ec15dad = L.marker(
+                [-36.1240936726918, 146.8817739577234],
+                {}
+            ).addTo(map_27cc102d88af4f99c35e40d4415b2647);
+        
+    
+        var popup_d1fff4573c4992ea01d2ac0f1af19101 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_612ba887875f20522c9c355aa5def562 = $(`<div id="html_612ba887875f20522c9c355aa5def562" style="width: 100.0%; height: 100.0%;">WODONGA</div>`)[0];
+            popup_d1fff4573c4992ea01d2ac0f1af19101.setContent(html_612ba887875f20522c9c355aa5def562);
+        
+
+        marker_ff78f5624d81e12dd3b271ad1ec15dad.bindPopup(popup_d1fff4573c4992ea01d2ac0f1af19101)
+        ;
+
+        
+    
+</script>
