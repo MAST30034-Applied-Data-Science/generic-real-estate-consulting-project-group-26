@@ -13,6 +13,12 @@ Group Members:
 # Research goal 
 The main forcus of our project is to advice stakeholders where and what to invest for a higher profit.
 
+# Timeline 
+Some annual data is collected for predicting feature year.  
+- Income is collected from 2014 to 2018.
+- Population is collected from 2001 to 2021.
+- Rental price is collected from 2014 to 2018
+
 # Repository Directory
 - `notebooks`: "Walkthrough Notebook.ipynb" includes the introduction of each folder and solution ideas for each problem.  
   - "Data Scraping", "Feature Engineering", "Preprocessing", "Visualisation". 
