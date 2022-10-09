@@ -14,10 +14,10 @@ The main forcus of our project is to advice stakeholders where and what to inves
 
 # Repository Directory
 - `notebooks`: "Walkthrough Notebook.ipynb" includes the introduction of each folder and solution ideas for each problem.  
-  1.contains "Data Scraping", "Feature Engineering", "Preprocessing", "Visualisation". 
-  2.Solution algorithm for Question 1, 2 and 3.  
-  3.SA2_data_merge.ipynb" creates the mapping data for drawing choloropleth in "Visualisation", please run it before "visualisation"  
-- `data`: contains all the preprocessed data
+  - contains "Data Scraping", "Feature Engineering", "Preprocessing", "Visualisation". 
+  - Solution algorithm for Question 1, 2 and 3.  
+  - SA2_data_merge.ipynb" creates the mapping data for drawing choloropleth in "Visualisation", please run it before "visualisation"  
+- `data`: contains raw and curated data
 - `instructions`: contains all instruction given by the instructor
 - `meeting_minutes`: contains weekly logs for the meetings
 - `plots`: contains all plots
