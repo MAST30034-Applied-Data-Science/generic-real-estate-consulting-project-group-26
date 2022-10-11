@@ -20,7 +20,8 @@ Some annual data is collected for predicting feature year.
 - Rental price is collected from 2014 to 2018
 
 # Repository Directory
-- `notebooks`: "Walkthrough Notebook.ipynb" includes the introduction of each folder and solution ideas for each problem.  
+- `notebooks`: 
+  - "Summary Notebook.ipynb" includes the introduction of each folder and solution ideas for each problem.  
   - "Data Scraping", "Feature Engineering", "Preprocessing", "Visualisation". 
   - Solution algorithm for Question 1, 2 and 3.  
   - SA2_data_merge.ipynb" creates the mapping data for drawing choloropleth in "Visualisation", please run it before "visualisation"  
