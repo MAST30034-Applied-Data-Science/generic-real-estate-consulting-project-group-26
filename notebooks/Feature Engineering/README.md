@@ -7,6 +7,6 @@
 - `Merge dataset for Q2.ipynb` : it merges the dataset for solving Q2. 
 - `Merge datasets for Q3.ipynb` : it merges the dataset for solving Q3.  
 - `Normalization of attributes in Q3.ipynb` : it normalize the different data to same scale for solving Q3.   
-- `SA2_data_merge.ipynb' : it merges SA2 data for mapping.
-- `Shopping central in suburbs.ipynb' : it counts the number of shopping center in each suburb.
-- `Use API to Get Route Distance(irreproducible).ipynb' : it uses API to get route distance.
+- `SA2_data_merge.ipynb` : it merges SA2 data for mapping.
+- `Shopping central in suburbs.ipynb` : it counts the number of shopping center in each suburb.
+- `Use API to Get Route Distance(irreproducible).ipynb` : it uses API to get route distance.
