@@ -1,32 +1,12 @@
-# Generic Real Estate Consulting Project
-Groups should generate their own suitable `README.md`.
-Group Name:  
-- Group 26
-
-# Group Members:  
-- Yihan Bao (1174241)
-- Shunran Wang (1056590)
-- Chaoran Xu (1217537)
-- Hairong Xu (1074211)
-- Xiangyi Huang (1132626)
-
-# Research goal 
-The main forcus of our project is to advice stakeholders where and what to invest for a higher profit.
-
-# Timeline 
-Some annual data is collected for predicting feature year.  
-- Income is collected from 2014 to 2018.
-- Population is collected from 2001 to 2021.
-- Rental price is collected from 2014 to 2018
-
-# Repository Directory
-- `notebooks`: 
-  - `Summary Notebook.ipynb` includes the introduction and analysis of each step in this project. It also includes solution ideas for each problem.  
-  - `Data Scraping` : This folder includes the files which collect data by web scraping. 
-  - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question. 
-  - `Preprocessing` : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in `data/curated` folder. 
-  - `Visualisation` : This folder includes files which the map the relative data on Victoria map.
-  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 independently.  
-  
-- `data`: contains raw and curated data
-- `plots`: contains all plot which created in all files. 
+# Feature Engineering Directory
+- `Calculate Straight Distances.ipynb` : includes the straight distance from each property to school, hospital, train station, shopping centres, entertainment facilities   and CBD. 
+- `Count for Facilites, Hospital, School by suburb.ipynb` : includes the collection of the number of facility, hospital, school in each suburb in Victoria. 
+- 'calculate_crime_rate.ipynb' : it gets the crime rate for each LGA area.
+- `Crime each suburb.ipynb` : it merges the LGA and suburb with crime rate. 
+- `Crime traffic, and income in suburbs.ipynb` : it creates features by extracting data crime rate, train station and income, it also allocates data in sa2 to suburbs. 
+- `Merge dataset for Q2.ipynb` : it merges the dataset for solving Q2. 
+- `Merge datasets for Q3.ipynb` : it merges the dataset for solving Q3.  
+- `Normalization of attributes in Q3.ipynb` : it normalize the different data to same scale for solving Q3.   
+- `SA2_data_merge.ipynb' : it merges SA2 data for mapping.
+- `Shopping central in suburbs.ipynb' : it counts the number of shopping center in each suburb.
+- `Use API to Get Route Distance(irreproducible).ipynb' : it uses API to get route distance.
