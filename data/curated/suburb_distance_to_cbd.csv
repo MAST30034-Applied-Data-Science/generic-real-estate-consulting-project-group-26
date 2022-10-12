@@ -1,0 +1,479 @@
+,Suburb,Distance to CBD (km)
+0,Abbotsford,2.5
+1,Aberfeldie,9.1
+2,Airport West,13.5
+3,Albanvale,19.2
+4,Albert Park,3.3
+5,Albion,13.9
+6,Alphington,6.4
+7,Altona,13.8
+8,Altona Meadows,18.1
+9,Altona North,11.1
+10,Ardeer,15.2
+11,Armadale,6.3
+12,Arthurs Creek,33.2
+13,Ascot Vale,5.9
+14,Ashburton,11
+15,Ashwood,12.2
+16,Aspendale,26.3
+17,Aspendale Gardens,26.7
+18,Attwood,17.9
+19,Avondale Heights,10.5
+20,Avonsleigh,45.2
+21,Bacchus Marsh,49.3
+22,Balaclava,6.6
+23,Balliang East,45
+24,Balwyn,9.7
+25,Balwyn North,9.2
+26,Bangholme,30.5
+27,Baxter,45.5
+28,Bayswater,26.2
+29,Bayswater North,26.8
+30,Beaconsfield,43.3
+31,Beaconsfield Upper,44
+32,Beaumaris,20
+33,Belgrave,35.3
+34,Belgrave Heights,35.8
+35,Belgrave South,36.7
+36,Bellarine,46.7
+37,Bellfield,9.5
+38,Bend Of Islands,30.4
+39,Bentleigh,13
+40,Bentleigh East,13.9
+41,Berwick,40.7
+42,Beveridge,37.8
+43,Black Rock,18.3
+44,Blackburn,16.1
+45,Blackburn North,15.9
+46,Blackburn South,15.6
+47,Bolinda,46.6
+48,Bonbeach,30.6
+49,Boronia,28.3
+50,Box Hill,13.1
+51,Box Hill Central,13.1
+52,Box Hill North,13.8
+53,Box Hill South,13.4
+54,Braeside,25
+55,Braybrook,10.8
+56,Braybrook North,7.6
+57,Briar Hill,17.5
+58,Brighton,11.2
+59,Brighton East,10.7
+60,Brighton North,10.4
+61,Broadmeadows,15.4
+62,Brookfield,39.8
+63,Brooklyn,10.9
+64,Bruces Creek,42.1
+65,Brunswick,5.2
+66,Brunswick East,4.5
+67,Brunswick West,5.9
+68,Bulla,24.3
+69,Bulleen,11.8
+70,Bundoora,15.3
+71,Burnley,3.5
+72,Burnley North,3.7
+73,Burnside,20.3
+74,Burnside Heights,21.7
+75,Burwood,11.7
+76,Burwood East,16.5
+77,Cairnlea,17
+78,Calder Park,23.7
+79,Camberwell,7.8
+80,Campbellfield,14.5
+81,Canterbury,9
+82,Carlton,1.8
+83,Carlton North,3.2
+84,Carnegie,11.4
+85,Caroline Springs,22.1
+86,Carrum,32.2
+87,Carrum Downs,37.1
+88,Caulfield,8.9
+89,Caulfield East,9.3
+90,Caulfield North,8.1
+91,Caulfield South,9.3
+92,Chadstone,13.6
+93,Chadstone Centre,15.9
+94,Chelsea,29.5
+95,Chelsea Heights,29.6
+96,Cheltenham,18.4
+97,Chintin,48
+98,Chirnside Park,31
+99,Christmas Hills,35.5
+100,Clarinda,18.3
+101,Clarkefield,39.2
+102,Clayton,18.1
+103,Clayton South,19.6
+104,Clematis,41.8
+105,Clifton Hill,3.4
+106,Clyde,47.9
+107,Clyde North,46.1
+108,Coburg,7.8
+109,Coburg North,9.2
+110,Cockatoo,47.7
+111,Cocoroc,38.2
+112,Coldstream,37.2
+113,Collingwood,1.6
+114,Coolaroo,18.3
+115,Cottles Bridge,30.1
+116,Craigieburn,24
+117,Cranbourne,42.2
+118,Cranbourne East,45.7
+119,Cranbourne North,40.2
+120,Cranbourne South,43.2
+121,Cranbourne West,41.1
+122,Cremorne,2.5
+123,Croydon,27.3
+124,Croydon Hills,27.1
+125,Croydon North,28.8
+126,Croydon South,26.2
+127,Dallas,16
+128,Dandenong,28.8
+129,Dandenong North,26.7
+130,Dandenong South,31.8
+131,Darley,49.5
+132,Darraweit Guim,46.8
+133,Deer Park,17.9
+134,Delahey,20
+135,Derrimut,17.6
+136,Devon Meadows,49.4
+137,Dewhurst,46.8
+138,Diamond Creek,22.7
+139,Diggers Rest,30.1
+140,Dingley Village,22.1
+141,Dixons Creek,45.9
+142,Docklands,1.9
+143,Doncaster,13.9
+144,Doncaster East,17.8
+145,Donnybrook,30.2
+146,Donvale,18.8
+147,Doreen,27.1
+148,Doveton,31.1
+149,Eaglemont,10.3
+150,East Melbourne,1.5
+151,Eden Park,36.3
+152,Edithvale,27.7
+153,Elsternwick,8.5
+154,Eltham,19.1
+155,Eltham North,20.4
+156,Elwood,7.7
+157,Emerald,43.3
+158,Endeavour Hills,31
+159,Epping,18.8
+160,Essendon,8
+161,Essendon North,9.4
+162,Essendon West,9.8
+163,Eumemmerring,32
+164,Exford,40.3
+165,Eynesbury,35.6
+166,Fairfield,5.8
+167,Fawkner,12.4
+168,Ferntree Gully,29.5
+169,Ferny Creek,33.5
+170,Fitzroy,1.6
+171,Fitzroy North,3.5
+172,Flemington,4.4
+173,Footscray,6.4
+174,Forest Hill,17.3
+175,Frankston,39.2
+176,Frankston North,37.8
+177,Frankston South,40.4
+178,Gardenvale,9.8
+179,Gisborne,49.3
+180,Gisborne South,44.9
+181,Gladstone Park,15.8
+182,Glen Huntly,10.4
+183,Glen Iris,9.2
+184,Glen Waverley,18.6
+185,Glenroy,13
+186,Gowanbrae,13.6
+187,Greensborough,16.8
+188,Greenvale,20.8
+189,Gruyere,42
+190,Guys Hill,42.9
+191,Hadfield,12.1
+192,Hallam,34
+193,Hampton,13.7
+194,Hampton East,14.5
+195,Hampton Park,35.7
+196,Harkaway,38.6
+197,Hawthorn,4.6
+198,Hawthorn East,7.5
+199,Heathcote Junction,48.1
+200,Heatherton,19.5
+201,Heathmont,24.1
+202,Heidelberg,10.6
+203,Heidelberg Heights,10.5
+204,Heidelberg West,9.4
+205,Hidden Valley,46.5
+206,Highett,16.3
+207,Hillside,24.4
+208,Hopetoun Park,43.7
+209,Hoppers Crossing,25
+210,Hughesdale,13
+211,Humevale,41.4
+212,Huntingdale,15.8
+213,Hurstbridge,27.4
+214,Indented Head,42.8
+215,Ivanhoe,7.9
+216,Ivanhoe East,9
+217,Jacana,14.5
+218,Junction Village,45.9
+219,Kalkallo,31.6
+220,Kallista,35.9
+221,Kalorama,34.7
+222,Kangaroo Ground,25.4
+223,Kealba,15
+224,Keilor,15.9
+225,Keilor Downs,17.1
+226,Keilor East,12.8
+227,Keilor Lodge,20.1
+228,Keilor North,18.3
+229,Keilor Park,14.5
+230,Kensington,4.2
+231,Kew,5.6
+232,Kew East,7.5
+233,Keysborough,27
+234,Kilsyth,30
+235,Kilsyth South,29.2
+236,Kinglake,45.3
+237,Kinglake Central,45.7
+238,Kinglake West,44.1
+239,Kings Park,18.9
+240,Kingsbury,12.4
+241,Kingsville,7.8
+242,Kingsville West,9.4
+243,Knoxfield,25.5
+244,Kooyong,6.2
+245,Kurunjang,37
+246,La Trobe University,12.2
+247,Lalor,16.9
+248,Langwarrin,42.3
+249,Langwarrin South,46.7
+250,Laverton,19.3
+251,Laverton North,15.2
+252,Laverton Raaf,19.2
+253,Lilydale,34.2
+254,Little River,43.8
+255,Long Forest,44.9
+256,Lower Plenty,15.8
+257,Lynbrook,36.4
+258,Lyndhurst,35.9
+259,Lysterfield,29.9
+260,Lysterfield South,31.9
+261,Macclesfield,45.1
+262,Macleod,13
+263,Maidstone,9.2
+264,Malvern,7.4
+265,Malvern East,11.2
+266,Malvern North,13
+267,Mambourin,37.6
+268,Maribyrnong,8.7
+269,Mckinnon,12.3
+270,Meadow Heights,18.7
+271,Melbourne,2.8
+272,Melbourne Airport,19.4
+273,Melton,37
+274,Melton South,36.9
+275,Melton West,38.8
+276,Mentone,20.6
+277,Menzies Creek,39.8
+278,Mernda,26.9
+279,Merrimu,47.1
+280,Mickleham,29.2
+281,Middle Park,4.1
+282,Mill Park,18
+283,Mitcham,19.6
+284,Monash University,18
+285,Monbulk,38.7
+286,Monegeetta,48.6
+287,Mont Albert,11.8
+288,Mont Albert North,12.4
+289,Montmorency,17
+290,Montrose,32.7
+291,Moonee Ponds,6.9
+292,Moorabbin,14.6
+293,Moorabbin Airport,21.5
+294,Moorooduc,47.1
+295,Mooroolbark,30
+296,Mordialloc,23.8
+297,Moreland,7.3
+298,Mornington,45.5
+299,Mount Cottrell,32.2
+300,Mount Dandenong,34.1
+301,Mount Eliza,42.4
+302,Mount Evelyn,36.1
+303,Mount Slide,47.2
+304,Mount Waverley,15.5
+305,Mulgrave,20.9
+306,Murrumbeena,12.1
+307,Nangana,49.5
+308,Narre Warren,37.8
+309,Narre Warren East,38.4
+310,Narre Warren North,35.5
+311,Narre Warren South,38.9
+312,Newport,8.4
+313,Niddrie,11.2
+314,Noble Park,24.9
+315,Noble Park North,25
+316,North Melbourne,2.3
+317,North Warrandyte,23.8
+318,Northcote,5.5
+319,Notting Hill,18.2
+320,Nunawading,18
+321,Nutfield,28.8
+322,Oak Park,11.5
+323,Oaklands Junction,23.5
+324,Oakleigh,14
+325,Oakleigh East,15.3
+326,Oakleigh South,14.7
+327,Officer,47.4
+328,Olinda,34.9
+329,Ormond,11.8
+330,Panton Hill,30.4
+331,Park Orchards,22
+332,Parkdale,22
+333,Parkville,2.6
+334,Parwan,46.3
+335,Pascoe Vale,9.9
+336,Pascoe Vale South,8.5
+337,Patterson Lakes,32.1
+338,Pearcedale,49
+339,Pheasant Creek,45.8
+340,Plenty,20.8
+341,Plumpton,28.8
+342,Point Cook,22.3
+343,Port Melbourne,3.8
+344,Portarlington,43.7
+345,Prahran,4.5
+346,Preston,8.8
+347,Princes Hill,3.7
+348,Quandong,36.6
+349,Ravenhall,21.1
+350,Research,22.1
+351,Reservoir,11.2
+352,Richmond,2.6
+353,Riddells Creek,46.8
+354,Ringwood,22.5
+355,Ringwood East,24.3
+356,Ringwood North,23.4
+357,Ripponlea,7.4
+358,Rockbank,29.4
+359,Rosanna,11.4
+360,Rowville,25.9
+361,Roxburgh Park,19.9
+362,Royal Melbourne Hospital,2.1
+363,Saint Helena,19.6
+364,Sandhurst,36.4
+365,Sandringham,16
+366,Sargood,13.8
+367,Sassafras,34.1
+368,Sassafras Gully,33.5
+369,Scoresby,24.9
+370,Seabrook,20
+371,Seaford,34.9
+372,Seaholme,12.7
+373,Seddon,6.6
+374,Selby,37
+375,Seville,43.2
+376,Seville East,46.3
+377,Sherbrooke,35
+378,Silvan,39.5
+379,Skye,39.6
+380,Smiths Gully,33.5
+381,Somerton,18.9
+382,Somerville,49.1
+383,South Kingsville,9.1
+384,South Melbourne,2.1
+385,South Morang,22.3
+386,South Yarra,3.3
+387,Southbank,1.2
+388,Spotswood,7.7
+389,Springvale,22.1
+390,Springvale South,23.5
+391,St Albans,16.9
+392,St Andrews,35.2
+393,St Kilda,6.1
+394,St Kilda East,6.4
+395,St Kilda Road Central,3.2
+396,St Kilda West,5.3
+397,St Leonards,45.6
+398,Steels Creek,43
+399,Strathewen,40.7
+400,Strathmore,9.7
+401,Strathmore Heights,12.5
+402,Summerfield,48.9
+403,Sunbury,33.7
+404,Sunshine,12.6
+405,Sunshine North,13.3
+406,Sunshine West,13.5
+407,Surrey Hills,11.2
+408,Sydenham,22.1
+409,Tarneit,24.4
+410,Tarrawarra,45
+411,Taylors Hill,21.3
+412,Taylors Lakes,20.5
+413,Tecoma,34.4
+414,Templestowe,15.5
+415,Templestowe Lower,13.8
+416,The Basin,30.6
+417,The Patch,37.9
+418,Thomastown,15.3
+419,Thornbury,6.5
+420,Toolern Vale,40.7
+421,Toorak,4.6
+422,Tottenham,10.1
+423,Travancore,5.3
+424,Tremont,32.5
+425,Truganina,19.5
+426,Tullamarine,16.1
+427,Tyntynder,38.2
+428,University Of Melbourne,2.1
+429,Upper Ferntree Gully,31.1
+430,Upper Plenty,44.2
+431,Upwey,33.3
+432,Vermont,19.8
+433,Vermont South,19.3
+434,Viewbank,13.8
+435,Wallan,44.5
+436,Wandin East,43
+437,Wandin North,39.2
+438,Wandong,48.9
+439,Wantirna,23
+440,Wantirna South,24
+441,Warrandyte,23.7
+442,Warrandyte South,23.9
+443,Warranwood,24.8
+444,Waterways,26.3
+445,Watsonia,14.9
+446,Watsonia North,16.2
+447,Watsons Creek,29.7
+448,Wattle Glen,24.8
+449,Werribee,29.3
+450,Werribee South,29.3
+451,West Footscray,8.2
+452,West Melbourne,1.9
+453,Westmeadows,16.7
+454,Wheelers Hill,21.9
+455,Whittlesea,35.7
+456,Wildwood,30.6
+457,Williams Landing,19.4
+458,Williams Raaf,19.4
+459,Williamstown,8
+460,Williamstown North,8.9
+461,Windsor,5.1
+462,Wollert,25
+463,Wonga Park,27.6
+464,Woodstock,31.3
+465,Woori Yallock,49.3
+466,World Trade Centre,1.7
+467,Worrowing,36.4
+468,Wyndham Vale,31.2
+469,Yallambie,15
+470,Yan Yean,29.7
+471,Yarra Glen,39.4
+472,Yarrambat,24.2
+473,Yarraville,7
+474,Yarraville West,9.4
+475,Yellingbo,47.2
+476,Yering,37.8
+477,Yuroke,26.1
