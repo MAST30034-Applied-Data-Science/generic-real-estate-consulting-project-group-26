@@ -21,12 +21,12 @@ Some annual data is collected for predicting feature year.
 
 # Repository Directory
 - `notebooks`: 
-  - "Summary Notebook.ipynb" includes the introduction and analysis of each step in this project. It also includes solution ideas for each problem.  
-  - "Data Scraping" : This folder includes the files which collect data by web scraping. 
-  - "Feature Engineering" : This folder mainly consider creating the useful attributes for project and merge dataset for solving question. 
-  - "Preprocessing" : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in "data/curated" folder. 
-  - "Visualisation" : This folder includes files which the map the relative data on Victoria map.
-  - "Q1 Data Analysis.ipynb", "Q2 Predict Growth Rate.ipynb", "Q3 Liveability and affordability.ipynb" represent the solution algorithm for Question 1, 2, 3 independently.  
-  - SA2_data_merge.ipynb" creates the mapping data for drawing choloropleth in "Visualisation", please run it before "visualisation" folder.  
+  - `Summary Notebook.ipynb` includes the introduction and analysis of each step in this project. It also includes solution ideas for each problem.  
+  - `Data Scraping` : This folder includes the files which collect data by web scraping. 
+  - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question. 
+  - `Preprocessing` : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in `data/curated` folder. 
+  - `Visualisation` : This folder includes files which the map the relative data on Victoria map.
+  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 independently.  
+  
 - `data`: contains raw and curated data
 - `plots`: contains all plot which created in all files. 
