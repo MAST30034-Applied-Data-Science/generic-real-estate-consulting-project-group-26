@@ -30,3 +30,16 @@ Some annual data is collected for predicting feature year.
   
 - `data`: contains raw and curated data
 - `plots`: contains all plot which created in all files. 
+
+# Reference
+- Property: www.domain.com.au
+- SA2 District Boundaries (ABS) : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016
+- Total population by SA2 Districts : https://www.abs.gov.au/statistics/people/population/regional-population/2021#data-download
+- Income by SA2 Districts 05-10 : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6524.0.55.0022005-06%20to%202010-11?OpenDocument
+- Income by SA2 Districts 11-15 : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6524.0.55.0022011-2015?OpenDocument
+- Income by SA2 Districts	14-18 : https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/personal-income-australia/2014-15-2018-19#data-download
+- Population Forecasts by SA2 Districts : https://www.gen-agedcaredata.gov.au/Resources/Access-data/2019/September/Population-projections,-2017-(base)-to-2032-for-al
+- VIC Suburb/Locality Boundaries - Geoscape Administrative Boundaries : https://data.gov.au/data/dataset/vic-suburb-locality-boundaries-geoscape-administrative-boundaries
+- Crime data: https://www.crimestatistics.vic.gov.au/
+- School locations : https://discover.data.vic.gov.au/dataset/school-locations-2022
+- openrouteservice.org by HeiGIT | Map data  OpenStreetMap contributors
