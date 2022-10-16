@@ -15,8 +15,8 @@ The main objective of our project is to advice stakeholders where and what to in
 
 # Timeline 
 Some annual data is collected for predicting feature year.  
-- Income is collected from 2014 to 2018.
-- Population is collected from 2001 to 2021.
+- Income is collected from 2005 to 2018.
+- Population is collected from 2000 to 2021.
 - Rental price is collected from 2014 to 2018
 
 # Repository Directory
@@ -31,13 +31,19 @@ Some annual data is collected for predicting feature year.
 - `data`: contains raw and curated data
 - `plots`: contains all plot which created in all files. 
 
-# Reference
+# Requirements
+Some external package needs to be pip installed to perform some functionalities, see `requirements.txt`
+
+# Reference and Data Sources
 - Property: www.domain.com.au
+- Median rental price: https://www.dhhs.vic.gov.au/moving-annual-rents-suburb-march-quarter-2021-excel
 - SA2 District Boundaries (ABS) : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016
 - Total population by SA2 Districts : https://www.abs.gov.au/statistics/people/population/regional-population/2021#data-download
 - Income by SA2 Districts 05-10 : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6524.0.55.0022005-06%20to%202010-11?OpenDocument
 - Income by SA2 Districts 11-15 : https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6524.0.55.0022011-2015?OpenDocument
 - Income by SA2 Districts	14-18 : https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/personal-income-australia/2014-15-2018-19#data-download
+- Hospital data: https://springernature.figshare.com/ndownloader/files/15591434
+- Entertainment Facility data: https://discover.data.vic.gov.au/dataset/e6db797e-3801-4cfa-bf02-82350d0f722d/resource/bfff5fff-9c74-4671-8396-43f793613b70/download/srv_ifmd_all-facilities.xlsx
 - Population Forecasts by SA2 Districts : https://www.gen-agedcaredata.gov.au/Resources/Access-data/2019/September/Population-projections,-2017-(base)-to-2032-for-al
 - VIC Suburb/Locality Boundaries - Geoscape Administrative Boundaries : https://data.gov.au/data/dataset/vic-suburb-locality-boundaries-geoscape-administrative-boundaries
 - Crime data: https://www.crimestatistics.vic.gov.au/
