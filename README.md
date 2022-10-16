@@ -11,7 +11,7 @@ Group Name:
 - Xiangyi Huang (1132626)
 
 # Research goal 
-The main forcus of our project is to advice stakeholders where and what to invest for a higher profit.
+The main objective of our project is to advice stakeholders where and what to invest for a higher profit.
 
 # Timeline 
 Some annual data is collected for predicting feature year.  
@@ -26,7 +26,7 @@ Some annual data is collected for predicting feature year.
   - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question. 
   - `Preprocessing` : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in `data/curated` folder. 
   - `Visualisation` : This folder includes files which the map the relative data on Victoria map.
-  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 independently.  
+  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 respectively.  
   
 - `data`: contains raw and curated data
 - `plots`: contains all plot which created in all files. 
@@ -42,5 +42,4 @@ Some annual data is collected for predicting feature year.
 - VIC Suburb/Locality Boundaries - Geoscape Administrative Boundaries : https://data.gov.au/data/dataset/vic-suburb-locality-boundaries-geoscape-administrative-boundaries
 - Crime data: https://www.crimestatistics.vic.gov.au/
 - School locations : https://discover.data.vic.gov.au/dataset/school-locations-2022
-- API HeiGIT : https://openrouteservice.org/ 
-- Map data : OpenStreetMap contributors
+- API: openrouteservice.org by HeiGIT | Map data OpenStreetMap contributors
