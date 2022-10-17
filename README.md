@@ -19,7 +19,7 @@ Some annual data is collected for predicting feature year.
 - Rental price is collected from 2000 to 2021.
 
 # Repository Directory
-- `notebooks and folders` (please run them in the following order): 
+- `notebooks` (please run them in the following order): 
   - `Data Scraping` : This folder includes the files which collect data by web scraping. 
   - `Preprocessing` : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in `data/curated` folder. 
   - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question.
