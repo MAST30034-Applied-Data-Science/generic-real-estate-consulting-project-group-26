@@ -1,4 +1,5 @@
 # Data Scraping Directory
+#### Please run the notebooks in following order:
 - `ABS dataset.ipynb` : includes the collection of ABS dataset 
 - `Find Hospital and Entertainment Facilities Dataset.ipynb` : includes the collection of the hospital entertainment facilities dataset in Victoria. 
 - `Web Scraping for Properties.ipynb` : includes the collection of prpperties information. 

@@ -54,139 +54,138 @@
 52,Dingley Village Shopping Centre,-37.983412,145.132541, Dingley Village
 53,Dromana Hub Shopping Centre,-38.333538,144.964645, Dromana
 54,Eastland Shopping Centre,-37.812672,145.229157, Ringwood
-55,Eastwood Village Shopping Centre,-37.826676,147.629682, Bairnsdale
-56,Eliza Square Shopping Centre,-38.183794,145.089375, Mount Eliza
-57,Eltham Village Shopping Centre,-37.714902,145.148743, Eltham
-58,Emporium Melbourne,-37.812517,144.963555, Melbourne
-59,Endeavour Hills Shopping Centre,-37.976993,145.258788, Endeavour Hills
-60,Epping North Shopping Centre,-37.628168,145.027155, Epping
-61,Federation Square (Fed Square),-37.81797,144.969024, Melbourne
-62,Footscray Market,-37.800522,144.901875, Footscray
-63,Footscray Plaza Shopping Centre,-37.802426,144.894785, Footscray
-64,Forest Hill Chase Shopping Centre,-37.835453,145.164718, Forest Hill
-65,Frankston Power Centre,-38.148946,145.137326, Frankston
-66,Galleria Melbourne,-37.814824,144.962743, Melbourne
-67,Gateway Plaza,-38.381608,142.519768, Warrnambool
-68,Geelong Gate Homemaker Centre,-38.065015,144.383085, Geelong
-69,Gippsland Centre,-38.106745,147.06271, Sale
-70,Gisborne Village Shopping Centre,-37.485605,144.589909, Gisborne
-71,Gladstone Park Shopping Centre,-37.688293,144.88463, Gladstone Park
-72,Greensborough Plaza,-37.702696,145.102816, Greensborough
-73,Greenvale Shopping Centre,-37.639349,144.881948, Greenvale
-74,Hampton Park Shopping Centre,-38.032654,145.265843, Hampton Park
-75,Harbour Town Melbourne,-37.812574,144.939344, Docklands
-76,Harvey Norman - Wangaratta,-36.356748,146.325113, Wangaratta
-77,Harvey Norman Centre - Hoppers Crossing,-37.875109,144.710844, Hoppers Crossing
-78,Harvey Norman Centre Maribyrnong,-37.772658,144.885527, Maribyrnong
-79,Harvey Norman Centre Warrnambool,-38.383231,142.523999, Warrnambool
-80,Healesville Walk Shopping Centre,-37.652833,145.518043, Healesville
-81,Highett Shopping Centre,-37.949024,145.041367, Highett
-82,Highpoint Shopping Centre,-37.77369,144.888781, Maribyrnong
-83,Hogan's Corner Shopping Centre,-37.861908,144.68726, Hoppers Crossing
-84,Home Quarter Dandenong,-38.005209,145.21853, Dandenong
-85,HomeCo. Ballarat (form. Wendouree Homemaker Centre),-37.5343837,143.8211086, Wendouree
-86,Homemaker City Maribyrnong,-37.771563,144.884429, Maribyrnong
-87,Homemakers Albury Wodonga,-36.137884,146.90877, Wodonga
-88,HomePlus Homemaker Centre,-37.877598,145.091922, Chadstone
-89,Horsham Plaza,-36.715718,142.196203, Horsham
-90,Ivanhoe Plaza,-37.768183,145.04146,  Ivanhoe
-91,Karingal Hub Shopping Centre,-38.153172,145.165494, Frankston
-92,Keilor Shopping Centre,-37.727952,144.806774, Keilor Downs
-93,Kennington Village Shopping Centre,-36.775409,144.306331, Bendigo
-94,Lansell Square,-36.810475,144.242283, Kangaroo Flat
-95,Lilydale Marketplace,-37.759801,145.348895, Lilydale
-96,Lynbrook Village Shopping Centre,-38.05177,145.256595, Lynbrook
-97,Malvern Central,-37.863028,145.027026, Malvern
-98,Manor Lakes Central Shopping Centre,-37.876281,144.614452, Manor
-99,Market Square Shopping Centre,-38.147951,144.361964, Geelong
-100,Meadow Heights Shopping Centre,-37.650845,144.922161, Meadow Heights
-101,Melbourne Central Shopping Centre,-37.810813,144.962812, Melbourne
-102,Melbourne GPO,-37.813692,144.963206, Melbourne
-103,Melton Gateway,-37.688442,144.603102, Melton
-104,Midvalley Shopping Centre,-38.236989,146.429798, Morwell
-105,Mildura Central,-34.208196,142.138774, Mildura
-106,Milleara Shopping Centre,-37.749591,144.861442, Keilor East
-107,Mitcham Shopping Centre,-37.815739,145.192535, Mitcham
-108,Moonee Ponds Central,-37.765648,144.922669, Moonee Ponds
-109,Moorabbin House and Home Centre,-37.939558,145.038272, Moorabbin
-110,Mordialloc Plaza,-38.008072,145.086614, Mordialloc
-111,Mornington Central,-38.218566,145.039113, Mornington
-112,Mornington Village Shopping Centre,-38.223672,145.040597, Mornington
-113,Mountain Gate Shopping Centre,-37.883678,145.274908, Ferntree Gully
-114,Mountain High Shopping Centre,-37.840921,145.265094, Bayswater
-115,Myer Bourke Street,-37.813881,144.963993, Melbourne
-116,Newcomb Central Shopping Centre,-38.169956,144.39147, Newcomb
-117,North Blackburn Shopping Centre,-37.812013,145.152392, Blackburn
-118,Northcote Shopping Plaza,-37.768556,145.001845, Melbourne
-119,Northland Homemaker Centre,-37.741697,145.027778, Preston
-120,Northland Shopping Centre,-37.739018,145.029845, Preston
-121,Oakleigh Central,-37.901055,145.090211, Oakleigh
-122,Ocean Grove Marketplace,-38.258894,144.548297, Ocean Grove
-123,Pacific Epping,-37.653869,145.018678, Epping
-124,Pacific Werribee Plaza,-37.875219,144.679643, Werribee
-125,Pakenham Central Marketplace,-38.0775,145.483931, Pakenham
-126,Pakenham Place Shopping Centre,-38.079019,145.480817, Pakenham
-127,Pakington Strand,-38.137503,144.347662, Geelong
-128,Pakington Strand Shopping Centre,-38.136985,144.347624, Geelong
-129,Parkdale Plaza,-37.997395,145.084297, Parkdale
-130,Parkhill Plaza Shopping Centre,-38.014211,145.322697, Berwick
-131,Parkmore Shopping Centre,-37.992893,145.173138, Keysborough
-132,Pinewood Shopping Village,-37.892422,145.145241, Mount Waverley
-133,Pran Central Shopping Centre,-37.846954,144.993643, Prahran
-134,Preston Market,-37.739352,145.00178, Preston
-135,Queen Victoria Market,-37.807962,144.955688, Melbourne
-136,QV - Queen Victoria Village,-37.810696,144.965716, Melbourne
-137,Ringwood Square Shopping Centre,-37.815398,145.222226, Ringwood
-138,Ritchies Village Centre,-38.185074,145.089676, Mount Eliza
-139,Rosebud Plaza,-38.361526,144.891378, Rosebud
-140,Roxburgh Park Shopping Centre,-37.639405,144.932287, Roxburgh Park
-141,Royal Arcade,-37.814699,144.963505, Melbourne
-142,Runway Plaza,-37.724585,144.893951, Melbourne
-143,Shepparton Marketplace,-36.387641,145.423834, Shepparton
-144,Spencer Outlet Centre,-37.816219,144.952153, Melbourne
-145,Spencer Street Fashion Station,-37.81898,144.954095, Melbourne
-146,Springvale Homemaker Centre,-37.927444,145.143394, Springvale
-147,St Helena Marketplace,-37.685088,145.135792, St Helena
-148,Stockland Highlands Shopping Centre,-37.5751264,144.9201082, Craigieburn
-149,Stockland Point Cook Shopping Centre,-37.883369895772,144.73538783062, Point Cook
-150,Stockland The Pines,-37.763554,145.168284, Doncaster
-151,Stockland Tooronga Shopping Centre,-37.845596113968,145.04558170316, Glen Iris
-152,Stockland Wendouree,-37.53431,143.823885, Ballart
-153,Strath Village Shopping Centre,-36.774541,144.305047, Bendigo
-154,Stud Park,-37.920638,145.237115, Rowville
-155,Sunbury Square Shopping Centre,-37.577542,144.729432, Sunbury
-156,Target Centre Melbourne,-37.813077,144.966529, Melbourne
-157,Tarneit Gardens Shopping Centre,-37.839616,144.673555, Tarneit
-158,The Como Centre,-37.838366,144.996065, South Yarra
-159,The Gateway,-38.381549,142.520583, Warrnambool
-160,The Glen Shopping Centre,-37.87639,145.165638, Glen Waverley
-161,The Jam Factory,-37.842618,144.995792, South Yarra
-162,The Local Village,-38.0886367,145.1825171, Carrum Downs
-163,The Mall Boronia,-37.860342,145.286693, Boronia
-164,The Paramount Retail Centre,-37.811333,144.969441, Melbourne
-165,The Strand Melbourne,-37.813277,144.962665, Melbourne
-166,The Walk Arcade,-37.814766,144.964729, Melbourne
-167,Thrift Park Shopping Centre,-37.984204,145.076943, Mentone
-168,Tok H Centre,-37.84066,145.008246, Toorak
-169,Traralgon Centre Plaza,-38.194538,146.53939, Traralgon
-170,Vermont South Shopping Centre,-37.855243,145.182224, Vermont South
-171,Victoria Gardens Shopping Centre,-37.812724,145.010977, Richmond
-172,Vogue Shopping Centre,-37.837395,144.996158, Melbourne
-173,Warringal Shopping Centre,-37.755915,145.068739, Heidelberg
-174,Waterfront City,-37.814342,144.939035, Melbourne
-175,Watergardens Town Centre,-37.699266,144.775813, Taylors Lakes
-176,Watervale Shopping Centre,-37.723117,144.751043, Sydenham
-177,Waverley Gardens Shopping Centre,-37.935473,145.189605, Mulgrave
-178,Wellington Village Shopping Centre,-37.92821,145.252208, Rowville
-179,Westfield Airport West,-37.714077,144.886366, Melbourne
-180,Westfield Doncaster,-37.78685,145.125332, Doncaster
-181,Westfield Fountain Gate,-38.017692,145.303787, Fountain Gate
-182,Westfield Geelong,-38.146987,144.362575, Geelong
-183,Westfield Knox,-37.86927,145.24004, Wantirna South
-184,Westfield Plenty Valley,-37.651367,145.071752, Mill Park
-185,Westfield Southland,-37.958445,145.054806, Cheltenham
-186,Wodonga Plaza,-36.121153,146.881917, Wodonga
-187,Woodgrove Shopping Centre,-37.686167,144.56127, Melton
-188,Woolworths Whitebox Rise Wodonga,-36.139008,146.892456, Wodonga
-189,Wyndham Vale Square Shopping Centre,-37.888057,144.607036, Wyndham Vale
-190,Wyndham Village Shopping Centre,-37.849333,144.704302, Tarneit
+55,Eliza Square Shopping Centre,-38.183794,145.089375, Mount Eliza
+56,Eltham Village Shopping Centre,-37.714902,145.148743, Eltham
+57,Emporium Melbourne,-37.812517,144.963555, Melbourne
+58,Endeavour Hills Shopping Centre,-37.976993,145.258788, Endeavour Hills
+59,Epping North Shopping Centre,-37.628168,145.027155, Epping
+60,Federation Square (Fed Square),-37.81797,144.969024, Melbourne
+61,Footscray Market,-37.800522,144.901875, Footscray
+62,Footscray Plaza Shopping Centre,-37.802426,144.894785, Footscray
+63,Forest Hill Chase Shopping Centre,-37.835453,145.164718, Forest Hill
+64,Frankston Power Centre,-38.148946,145.137326, Frankston
+65,Galleria Melbourne,-37.814824,144.962743, Melbourne
+66,Gateway Plaza,-38.381608,142.519768, Warrnambool
+67,Geelong Gate Homemaker Centre,-38.065015,144.383085, Geelong
+68,Gippsland Centre,-38.106745,147.06271, Sale
+69,Gisborne Village Shopping Centre,-37.485605,144.589909, Gisborne
+70,Gladstone Park Shopping Centre,-37.688293,144.88463, Gladstone Park
+71,Greensborough Plaza,-37.702696,145.102816, Greensborough
+72,Greenvale Shopping Centre,-37.639349,144.881948, Greenvale
+73,Hampton Park Shopping Centre,-38.032654,145.265843, Hampton Park
+74,Harbour Town Melbourne,-37.812574,144.939344, Docklands
+75,Harvey Norman - Wangaratta,-36.356748,146.325113, Wangaratta
+76,Harvey Norman Centre - Hoppers Crossing,-37.875109,144.710844, Hoppers Crossing
+77,Harvey Norman Centre Maribyrnong,-37.772658,144.885527, Maribyrnong
+78,Harvey Norman Centre Warrnambool,-38.383231,142.523999, Warrnambool
+79,Healesville Walk Shopping Centre,-37.652833,145.518043, Healesville
+80,Highett Shopping Centre,-37.949024,145.041367, Highett
+81,Highpoint Shopping Centre,-37.77369,144.888781, Maribyrnong
+82,Hogan's Corner Shopping Centre,-37.861908,144.68726, Hoppers Crossing
+83,Home Quarter Dandenong,-38.005209,145.21853, Dandenong
+84,HomeCo. Ballarat (form. Wendouree Homemaker Centre),-37.5343837,143.8211086, Wendouree
+85,Homemaker City Maribyrnong,-37.771563,144.884429, Maribyrnong
+86,Homemakers Albury Wodonga,-36.137884,146.90877, Wodonga
+87,HomePlus Homemaker Centre,-37.877598,145.091922, Chadstone
+88,Horsham Plaza,-36.715718,142.196203, Horsham
+89,Ivanhoe Plaza,-37.768183,145.04146,  Ivanhoe
+90,Karingal Hub Shopping Centre,-38.153172,145.165494, Frankston
+91,Keilor Shopping Centre,-37.727952,144.806774, Keilor Downs
+92,Kennington Village Shopping Centre,-36.775409,144.306331, Bendigo
+93,Lansell Square,-36.810475,144.242283, Kangaroo Flat
+94,Lilydale Marketplace,-37.759801,145.348895, Lilydale
+95,Lynbrook Village Shopping Centre,-38.05177,145.256595, Lynbrook
+96,Malvern Central,-37.863028,145.027026, Malvern
+97,Manor Lakes Central Shopping Centre,-37.876281,144.614452, Manor
+98,Market Square Shopping Centre,-38.147951,144.361964, Geelong
+99,Meadow Heights Shopping Centre,-37.650845,144.922161, Meadow Heights
+100,Melbourne Central Shopping Centre,-37.810813,144.962812, Melbourne
+101,Melbourne GPO,-37.813692,144.963206, Melbourne
+102,Melton Gateway,-37.688442,144.603102, Melton
+103,Midvalley Shopping Centre,-38.236989,146.429798, Morwell
+104,Mildura Central,-34.208196,142.138774, Mildura
+105,Milleara Shopping Centre,-37.749591,144.861442, Keilor East
+106,Mitcham Shopping Centre,-37.815739,145.192535, Mitcham
+107,Moonee Ponds Central,-37.765648,144.922669, Moonee Ponds
+108,Moorabbin House and Home Centre,-37.939558,145.038272, Moorabbin
+109,Mordialloc Plaza,-38.008072,145.086614, Mordialloc
+110,Mornington Central,-38.218566,145.039113, Mornington
+111,Mornington Village Shopping Centre,-38.223672,145.040597, Mornington
+112,Mountain Gate Shopping Centre,-37.883678,145.274908, Ferntree Gully
+113,Mountain High Shopping Centre,-37.840921,145.265094, Bayswater
+114,Myer Bourke Street,-37.813881,144.963993, Melbourne
+115,Newcomb Central Shopping Centre,-38.169956,144.39147, Newcomb
+116,North Blackburn Shopping Centre,-37.812013,145.152392, Blackburn
+117,Northcote Shopping Plaza,-37.768556,145.001845, Melbourne
+118,Northland Homemaker Centre,-37.741697,145.027778, Preston
+119,Northland Shopping Centre,-37.739018,145.029845, Preston
+120,Oakleigh Central,-37.901055,145.090211, Oakleigh
+121,Ocean Grove Marketplace,-38.258894,144.548297, Ocean Grove
+122,Pacific Epping,-37.653869,145.018678, Epping
+123,Pacific Werribee Plaza,-37.875219,144.679643, Werribee
+124,Pakenham Central Marketplace,-38.0775,145.483931, Pakenham
+125,Pakenham Place Shopping Centre,-38.079019,145.480817, Pakenham
+126,Pakington Strand,-38.137503,144.347662, Geelong
+127,Pakington Strand Shopping Centre,-38.136985,144.347624, Geelong
+128,Parkdale Plaza,-37.997395,145.084297, Parkdale
+129,Parkhill Plaza Shopping Centre,-38.014211,145.322697, Berwick
+130,Parkmore Shopping Centre,-37.992893,145.173138, Keysborough
+131,Pinewood Shopping Village,-37.892422,145.145241, Mount Waverley
+132,Pran Central Shopping Centre,-37.846954,144.993643, Prahran
+133,Preston Market,-37.739352,145.00178, Preston
+134,Queen Victoria Market,-37.807962,144.955688, Melbourne
+135,QV - Queen Victoria Village,-37.810696,144.965716, Melbourne
+136,Ringwood Square Shopping Centre,-37.815398,145.222226, Ringwood
+137,Ritchies Village Centre,-38.185074,145.089676, Mount Eliza
+138,Rosebud Plaza,-38.361526,144.891378, Rosebud
+139,Roxburgh Park Shopping Centre,-37.639405,144.932287, Roxburgh Park
+140,Royal Arcade,-37.814699,144.963505, Melbourne
+141,Runway Plaza,-37.724585,144.893951, Melbourne
+142,Shepparton Marketplace,-36.387641,145.423834, Shepparton
+143,Spencer Outlet Centre,-37.816219,144.952153, Melbourne
+144,Spencer Street Fashion Station,-37.81898,144.954095, Melbourne
+145,Springvale Homemaker Centre,-37.927444,145.143394, Springvale
+146,St Helena Marketplace,-37.685088,145.135792, St Helena
+147,Stockland Highlands Shopping Centre,-37.5751264,144.9201082, Craigieburn
+148,Stockland Point Cook Shopping Centre,-37.883369895772,144.73538783062, Point Cook
+149,Stockland Tooronga Shopping Centre,-37.845596113968,145.04558170316, Glen Iris
+150,Stockland Wendouree,-37.53431,143.823885, Ballart
+151,Strath Village Shopping Centre,-36.774541,144.305047, Bendigo
+152,Stud Park,-37.920638,145.237115, Rowville
+153,Sunbury Square Shopping Centre,-37.577542,144.729432, Sunbury
+154,Target Centre Melbourne,-37.813077,144.966529, Melbourne
+155,Tarneit Gardens Shopping Centre,-37.839616,144.673555, Tarneit
+156,The Como Centre,-37.838366,144.996065, South Yarra
+157,The Gateway,-38.381549,142.520583, Warrnambool
+158,The Glen Shopping Centre,-37.87639,145.165638, Glen Waverley
+159,The Jam Factory,-37.842618,144.995792, South Yarra
+160,The Local Village,-38.0886367,145.1825171, Carrum Downs
+161,The Mall Boronia,-37.860342,145.286693, Boronia
+162,The Paramount Retail Centre,-37.811333,144.969441, Melbourne
+163,The Pines Shopping Centre,-37.763554,145.168284, Doncaster
+164,The Strand Melbourne,-37.813277,144.962665, Melbourne
+165,The Walk Arcade,-37.814766,144.964729, Melbourne
+166,Thrift Park Shopping Centre,-37.984204,145.076943, Mentone
+167,Tok H Centre,-37.84066,145.008246, Toorak
+168,Traralgon Centre Plaza,-38.194538,146.53939, Traralgon
+169,Vermont South Shopping Centre,-37.855243,145.182224, Vermont South
+170,Victoria Gardens Shopping Centre,-37.812724,145.010977, Richmond
+171,Vogue Shopping Centre,-37.837395,144.996158, Melbourne
+172,Warringal Shopping Centre,-37.755915,145.068739, Heidelberg
+173,Waterfront City,-37.814342,144.939035, Melbourne
+174,Watergardens Town Centre,-37.699266,144.775813, Taylors Lakes
+175,Watervale Shopping Centre,-37.723117,144.751043, Sydenham
+176,Waverley Gardens Shopping Centre,-37.935473,145.189605, Mulgrave
+177,Wellington Village Shopping Centre,-37.92821,145.252208, Rowville
+178,Westfield Airport West,-37.714077,144.886366, Melbourne
+179,Westfield Doncaster,-37.78685,145.125332, Doncaster
+180,Westfield Fountain Gate,-38.017692,145.303787, Fountain Gate
+181,Westfield Geelong,-38.146987,144.362575, Geelong
+182,Westfield Knox,-37.86927,145.24004, Wantirna South
+183,Westfield Plenty Valley,-37.651367,145.071752, Mill Park
+184,Westfield Southland,-37.958445,145.054806, Cheltenham
+185,Wodonga Plaza,-36.121153,146.881917, Wodonga
+186,Woodgrove Shopping Centre,-37.686167,144.56127, Melton
+187,Woolworths Whitebox Rise Wodonga,-36.139008,146.892456, Wodonga
+188,Wyndham Vale Square Shopping Centre,-37.888057,144.607036, Wyndham Vale
+189,Wyndham Village Shopping Centre,-37.849333,144.704302, Tarneit

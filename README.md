@@ -16,19 +16,19 @@ The main objective of our project is to advice stakeholders where and what to in
 Some annual data is collected for predicting feature year.  
 - Income is collected from 2005 to 2018.
 - Population is collected from 2000 to 2021.
-- Rental price is collected from 2014 to 2018
+- Rental price is collected from 2000 to 2021.
 
 # Repository Directory
-- `notebooks`: 
-  - `Summary Notebook.ipynb` includes the introduction and analysis of each step in this project. It also includes solution ideas for each problem.  
+- `notebooks and folders` (please run them in the following order): 
   - `Data Scraping` : This folder includes the files which collect data by web scraping. 
-  - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question. 
   - `Preprocessing` : This folder mainly preprocesses the data, extracts useful attribute from original dataset. The clean data will be stored in `data/curated` folder. 
+  - `Feature Engineering` : This folder mainly consider creating the useful attributes for project and merge dataset for solving question.
+  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 respectively.
   - `Visualisation` : This folder includes files which the map the relative data on Victoria map.
-  - `Q1 Data Analysis.ipynb`, `Q2 Predict Growth Rate.ipynb`, `Q3 Liveability and affordability.ipynb` represent the solution algorithm for Question 1, 2, 3 respectively.  
-  
-- `data`: contains raw and curated data
-- `plots`: contains all plot which created in all files. 
+  - `Summary Notebook.ipynb` includes the introduction and analysis of each step in this project. It also includes solution ideas for each problem.  
+ 
+- `data`: contains raw and curated data, not that `PTV` folder under `data/raw` cannot be directly downloaded via script because of website restrictions.
+- `plots`: contains all plot which created from notebooks. 
 
 # Requirements
 Some external package needs to be pip installed to perform some functionalities, see `requirements.txt`

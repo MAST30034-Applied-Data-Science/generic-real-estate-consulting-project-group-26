@@ -1,4 +1,5 @@
 # Preprocessing Directory
+#### Please run the notebooks in following order:
 - `Preprocess for annual rent.ipynb` : it preprocesses annual rent data. 
 - `Preprocess_crime_rate.ipynb` : it preprocesses crime rate data. 
 - `Preprocess_traffic.ipynb` : it preprocesses passenger flow volume data. 
